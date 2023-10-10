@@ -25,3 +25,9 @@ https://bian.org/servicelandscape-11-0-0/views/view_50605.html
 https://bian.org/servicelandscape-11-0-0/views/view_50986.html
 
 Tão importante quanto as funcionalidades que vamos criar será a qualidade do nosso código. Neste ponto, devemos nos preocupar com isso.
+
+## Grupo
+
+- Stefany Mikaelle da Silva Lima
+- Elton 
+
